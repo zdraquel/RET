@@ -1,0 +1,20 @@
+table{
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-left: 550px;
+    height: 125px;
+    width: 125px;
+    background-color: rgb(12, 196, 141);
+}
+#outputbox{
+    border: 2px solid black;
+    height: 40px;
+    background-color: aliceblue;
+}
+button{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+body{
+    background-color:rgb(224, 128, 208);
+}
